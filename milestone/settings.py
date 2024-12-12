@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3=b_*0^w%c2gu%4^jd1dc*wpww17o*v6h#)ewt!*)ybt)i(k3n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.201.89.25','milestone.shinovadatabase.in']
+ALLOWED_HOSTS = ['13.201.89.25','milestone.shinovadatabase.in','13.201.188.103']
 
 
 # Application definition
